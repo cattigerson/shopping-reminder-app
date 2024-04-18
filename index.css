@@ -90,12 +90,15 @@ p {
 
 @media (max-width: 500px) {
     body {
-        color: gold;
+        padding-top: 65px;
+        /*background: gold;*/
+        /*border: 8px solid black;*/
     }
+
     input, button, ul {
         border: none;
         /*border: 1px solid black;*/
-        width: 70%;
+        width: 75%;
         min-width: 40%;
     }
 }
