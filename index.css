@@ -89,6 +89,9 @@ p {
 }
 
 @media (max-width: 375px) {
+    body {
+        color: gold;
+    }
     input, button, ul {
         border: none;
         /*border: 1px solid black;*/
