@@ -91,7 +91,7 @@ p {
 @media (max-width: 500px) {
     body {
         padding-top: 65px;
-        /*background: gold;*/
+        background: gold;
         /*border: 8px solid black;*/
     }
 
